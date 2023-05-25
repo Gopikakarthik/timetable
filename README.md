@@ -140,7 +140,7 @@ Execute the program
 
 # OUPUT
 
-![TIME_TABLE](Timetable.jpg)
+![TIME_TABLE](ttimetable.jpg)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR]()

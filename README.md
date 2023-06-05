@@ -139,11 +139,10 @@ Execute the program
 
 
 # OUPUT
+![image](https://github.com/Gopikakarthik/timetable/assets/121235427/e8e880ca-1b7c-4fe5-96cd-69f3c60d658d)
 
-![TIME_TABLE](ttimetable.jpg)
 
-# HTML VALIDATOR
-![HTML VALIDATOR]()
+
 
 # RESULT
 The program for creating slot time table is completed successfully
